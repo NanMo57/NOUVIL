@@ -7,5 +7,5 @@ Parallax Effects – Smooth background and foreground motion for depth perceptio
 Scroll-triggered Events – Interactive sections that react as you scroll.
 Built with vanilla JavaScript and optimized for performance, this project is ideal for interactive storytelling, and immersive web experiences.
 
-🔗 [Live Demo (if available)]
+🔗 [Live Demo (https://nanmo57.github.io/NOUVIL/)]
 📌 Contributions & suggestions are welcome!
